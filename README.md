@@ -1,9 +1,9 @@
 # This is LvL 1 header
 
 This is test for github pages. Wonder if we can use this to handle patch notes...
-Click [here](patchnotes.md) for notes
+Click [here](patchnotes.md) for notes </br>
 
-
+<a href="patchnotes.md" target="_blank">Hello, world!</a>
 
 This is list for testing layout
 
