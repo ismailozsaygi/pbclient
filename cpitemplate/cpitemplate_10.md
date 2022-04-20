@@ -1,6 +1,7 @@
 ## CPITemplate
 ##### Version: 10
-----
+
+
 ### Features
 ----
 1. Now Jenkins build informations *(Item name, build number and passed build parameters)* will be available on **SROptions** debug panel Works on builds only 

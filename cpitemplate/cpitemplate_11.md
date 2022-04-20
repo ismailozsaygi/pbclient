@@ -1,6 +1,7 @@
 ## CPITemplate
 ##### Version: 11
-----
+
+
 ### Features
 ----
 1. MultiTouch setting moved from `GameController.cs` to `InputController.cs` with better support
