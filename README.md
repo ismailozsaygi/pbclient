@@ -8,11 +8,8 @@ Click [here](patchnotes.md) for notes </br>
 This is list for testing layout
 
 * DevOps
-
 * Developer
-
 * Tester
-
 * Marketing
 
 
@@ -36,7 +33,5 @@ std::cout << "Hello world!" << std::endl;
 This is custom list
 
 * Element 0
-
 * Element 1
-
 * Element 2
