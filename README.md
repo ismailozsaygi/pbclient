@@ -4,6 +4,8 @@ This is test for github pages. Wonder if we can use this to handle patch notes..
 Click [here](patchnotes.md) for notes
 
 <a href="https://ismailozsaygi.github.io/pbclient/patchnotes.html" target="_blank">Hello, world!</a>
+<a href="./cpitemplatev10.html" target="_blank">cpitemplatev10</a>
+<a href="https://ismailozsaygi.github.io/pbclient/cpitemplatev11.html" target="_blank">cpitemplatev11</a>
 
 This is list for testing layout
 
