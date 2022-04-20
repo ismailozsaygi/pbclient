@@ -5,9 +5,9 @@ Click [here](patchnotes.md) for notes
 
 <a href="https://ismailozsaygi.github.io/pbclient/patchnotes.html" target="_blank">Hello, world!</a>
 
-<a href="https://ismailozsaygi.github.io/pbclient/cpitemplate/cpitemplatev10.html" target="_blank">cpitemplatev10</a>
+<a href="https://ismailozsaygi.github.io/pbclient/cpitemplate/cpitemplate_10.html" target="_blank">cpitemplatev10</a>
 
-<a href="https://ismailozsaygi.github.io/pbclient/cpitemplate/cpitemplatev11.html" target="_blank">cpitemplatev11</a>
+<a href="https://ismailozsaygi.github.io/pbclient/cpitemplate/cpitemplate_11.html" target="_blank">cpitemplatev11</a>
 
 ----
 
